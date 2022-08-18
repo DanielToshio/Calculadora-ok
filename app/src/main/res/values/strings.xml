@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="botao_ok">Informe seu nome</string>
+    <string name="entre_com_seu_nome">Seu nome</string>
+</resources>
